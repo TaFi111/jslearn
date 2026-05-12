@@ -60,3 +60,9 @@ This command pushes the code from your local branch to the remote repository (on
 Remember, whenever you make new changes, you'll need to repeat steps 3, 4, and 10 to push those changes to your repository. Additionally, if you switch back to the "master" branch (or any other branch), you can continue working on it and commit changes separately from your other branch.
 
 That's it! Your code should now be uploaded to your GitHub repository. You can verify this by visiting your GitHub repository online.
+
+=====
+git pull origin main
+git merge
+git conflict
+git checkout branch/commit
