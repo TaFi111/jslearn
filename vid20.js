@@ -20,3 +20,9 @@ console.log('5' === 5);
 // console.warn("This is a warning message");
 
 console.log("%cWarning!", "color: red; font-size: 20px; font-weight: bold;");
+
+const name = "Tyson";
+const age = 19;
+
+const info = `My name is ${name}.\nI'm ${age} years old.`;
+console.log(info);
